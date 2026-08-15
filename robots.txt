@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-an9k4z.indocuan-pro.site/sitemap.xml
